@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Quotes Right! Every Time! No Excuses!"
-date:   2015-04-15
+date:   2013-07-25
 ---
 
 Perhaps the most frequently misunderstood element of web development is character sets and, in particular, quotes. Devs, editors, and writers love to blame anyone and anything -- Microsoft, Word, RSS, the WYSIWYG -- for their quote woes. They throw around terms like “curly quotes”,“smart quotes” and “Microsoft quotes” -- as if they were foreign, mystical characters, rather than boring, everyday UTF characters. But here are the true facts about quotes:

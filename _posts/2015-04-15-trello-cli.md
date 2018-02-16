@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to create Trello Cards from the Command Line (with a ~10 minute set-up)"
-date:   2013-07-25
+date:   2015-04-15
 ---
 
 1. This is quick and dirty and not terribly maintainable. But it's very useful for creating quick cards from the terminal. Requires familiarity with Trello and a basic understanding of bash.
